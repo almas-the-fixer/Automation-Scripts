@@ -13,7 +13,6 @@
 - Creates the backup directory if it does not exist.
 - Backs up the database with a timestamp (`YYYYMMDD_HHMMSS`) for versioning.
 - Easy to integrate with cron for automated weekly backups.
-- Future-ready for cloud storage integration (Google Drive, etc.).
 
 ---
 
